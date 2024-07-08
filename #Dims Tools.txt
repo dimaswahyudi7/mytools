@@ -1,0 +1,164 @@
+#Threat Intelligence 
+https://www.virustotal.com/gui/home/search
+https://www.abuseipdb.com/
+https://www.criminalip.io/
+https://threatbook.io/
+https://metadefender.com/
+https://intelx.io/
+https://opentip.kaspersky.com/?tab=lookup
+https://www.barracudacentral.org/lookups
+https://ipremoval.sms.symantec.com/
+
+https://pulsedive.com/
+https://www.ipqualityscore.com/ip-reputation-check
+https://exchange.xforce.ibmcloud.com/
+https://www.ipvoid.com/
+https://socradar.io/labs/ioc-radar/
+
+#Threat Intelligence (URL Specific)
+https://urlscan.io/
+https://phishtank.org/
+https://urlfiltering.paloaltonetworks.com/
+https://www.urlvoid.com/
+
+#URL Lookup
+https://www.brightcloud.com/tools/url-ip-lookup.php
+https://www.browserling.com/
+
+#Phising Analysis
+https://www.phishtool.com/
+https://cleantalk.org/email-checker
+
+#Sandbox Analysis
+https://yaraify.abuse.ch/scan/
+https://www.hybrid-analysis.com/
+https://www.joesandbox.com/#windows
+https://app.any.run/
+https://www.filescan.io/scan
+
+#Sandbox Analysis Offline
+https://github.com/cuckoosandbox/cuckoo
+https://github.com/quarkslab/irma
+https://github.com/viper-framework/viper
+https://github.com/monnappa22/Limon 
+
+#Data Leak Checker
+https://haveibeenpwned.com/
+https://dehashed.com/
+
+#Password Strength Checker
+https://password.kaspersky.com/
+https://www.passwordmonster.com/
+https://www.security.org/how-secure-is-my-password/
+
+#Test File (Malware)
+https://www.eicar.org/download-anti-malware-testfile/
+
+#Password Generation/Hashing Tool
+https://www.dan.me.uk/keygen
+
+#IoC Feeds
+https://www.dan.me.uk/tornodes
+https://urlhaus.abuse.ch/feeds/country/ID/
+https://virusshare.com/
+https://abuse.ch/
+
+#Ramsom Decryption 
+https://id-ransomware.malwarehunterteam.com/
+https://www.ransom-db.com/Decryption
+https://www.nomoreransom.org/en/decryption-tools.html
+
+#Ransom Info Feeds
+https://www.ransomfeed.it/
+
+#Decode
+https://zxing.org/w/decode.jspx
+
+#Privacy Tools
+https://www.privacytools.io/
+
+#Testing Reference
+https://github.com/dambergautam/php-security-guide
+
+#Learn-Path
+https://security.snyk.io/
+
+
+Censys-Scanner
+
+
+
+
+✅1. Threat Intelligience 101 >> https://lnkd.in/gfpd__xz
+
+✅2. URL, IP, domain, file hash >> https://lnkd.in/gNqxtn4d
+
+✅3. URL Sandbox >> https://urlscan.io/
+
+✅4. Cisco Reputation Check >> https://lnkd.in/g7uWdC5q
+
+✅5. Diagnostic & lookup tools >> https://mxtoolbox.com/
+
+✅6. Open Source IPS >> https://www.snort.org/
+
+✅7. CyberChef >> https://lnkd.in/gVjZywKu
+
+✅8. Browser Sandbox>> https://lnkd.in/gjA-QqdX
+
+✅9. IBM Reputation Check >> https://lnkd.in/gt8iyHE5
+
+✅10. IP Reputation Check >>https://www.abuseipdb.com/
+
+✅11. Sandboxing >> https://any.run/
+
+✅12. URL Category Finder >> https://lnkd.in/g4qQGsHG
+
+✅13. Advance Online Utilities >> https://centralops.net/co/
+
+✅14. Protocol analyzer >> https://www.wireshark.org/
+
+✅15. DNS related tools >> https://viewdns.info/
+
+✅16. OSINT Framework >> https://lnkd.in/gXaz_Wry
+
+✅17. Malfrat's OSINT >> https://lnkd.in/e4nhK2hK
+
+✅18. OpenAI >> https://lnkd.in/gjq7tcMG
+
+✅19. Find Emails >> https://hunter.io/
+
+✅20. Find People >> https://lnkd.in/g4bcUH_b
+
+✅21. Secure Password? >> https://lnkd.in/gbRCEmRW
+
+✅22. Internet Archieve >> https://archive.org/web/
+
+✅23. Reverse Image search >> https://tineye.com
+
+✅24. Link and data mining >>https://lnkd.in/gf9BUFWk
+
+✅25. Data breaches >> https://lnkd.in/gvbzhceV
+
+✅26. Search Engine for IoTs>> https://www.shodan.io/
+
+✅27. Cyberspace Search >> https://www.zoomeye.org/
+
+✅28. Search Engine >> https://search.censys.io/
+
+✅29. Website Profiler Tool >>https://builtwith.com/
+
+✅30. Malware Samples and IoCs >> https://abuse.ch/
+
+✅31. WhatsMyName >> https://whatsmyname.app/
+
+✅32. Email Info >>https://epieos.com/
+
+✅33. File Search engine >> https://filepursuit.com/
+
+✅34. Domain investigation >> https://lnkd.in/e2c27zc7
+
+✅35. CyberGordon >> https://cybergordon.com/
+
+✅36. Awesome SOC >> https://lnkd.in/enGqXSZr
+
+✅37. Awesome OSINT >> https://lnkd.in/ge6FHZKA
