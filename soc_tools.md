@@ -117,3 +117,4 @@
 - [Snyk Security](https://security.snyk.io/) - https://security.snyk.io/  
 - [Awesome SOC](https://github.com/cyb3rxp/awesome-soc/blob/main/threat_intelligence.md) - https://github.com/cyb3rxp/awesome-soc/blob/main/threat_intelligence.md  
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint/) - https://github.com/jivoi/awesome-osint/
+- [Mindmap](https://github.com/Ignitetechnologies/Mindmap) - https://github.com/Ignitetechnologies/Mindmap
