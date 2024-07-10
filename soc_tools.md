@@ -100,6 +100,7 @@
 
 ## Ransom Info Feeds
 - [Ransom Feed](https://www.ransomfeed.it/) - https://www.ransomfeed.it/
+- [Ransomwatch](https://ransomwatch.telemetry.ltd/#/) - https://ransomwatch.telemetry.ltd/#/
 
 ## Decode
 - [ZXing Decoder](https://zxing.org/w/decode.jspx) - https://zxing.org/w/decode.jspx
