@@ -37,6 +37,9 @@
 - [OSINT Framework](https://osintframework.com/) - https://osintframework.com/  
 - [Malfrats Industries](https://map.malfrats.industries/) - https://map.malfrats.industries/
 
+## OWASP Project
+- [OWASP Project](https://owasp.org/projects/) - https://owasp.org/projects/
+
 ## Online Utilities/Framework 
 - [CentralOps](https://centralops.net/co/) - https://centralops.net/co/  
 - [ViewDNS](https://viewdns.info/) - https://viewdns.info/
