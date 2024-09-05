@@ -27,8 +27,6 @@
 - [BrightCloud](https://www.brightcloud.com/tools/url-ip-lookup.php) - https://www.brightcloud.com/tools/url-ip-lookup.php  
 - [Browserling](https://www.browserling.com/) - https://www.browserling.com/
 - [TinyScan](https://www.tiny-scan.com/) - https://www.tiny-scan.com/
-- [TinyScan](https://www.tiny-scan.com/){:target="_blank"} - https://www.tiny-scan.com/
-* [TinyScan](https://www.tiny-scan.com/){:target="_blank"} - https://www.tiny-scan.com/
 
 ## Reverse Image Search
 - [TinEye](https://tineye.com) - https://tineye.com
