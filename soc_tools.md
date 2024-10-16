@@ -1,5 +1,7 @@
-## Threat Intelligence
+## Cybersecurity Handbooks
+- [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
 
+## Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - https://www.virustotal.com/gui/home/search  
 - [AbuseIPDB](https://www.abuseipdb.com/) - https://www.abuseipdb.com/  
 - [Criminal IP](https://www.criminalip.io/) - https://www.criminalip.io/  
