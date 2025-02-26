@@ -9,6 +9,7 @@
 - [ATT&CK Evaluation](https://attackevals.mitre-engenuity.org/) - https://attackevals.mitre-engenuity.org/
 
 ## Threat Intelligence
+- [CrowdSec Threat Intelligence](https://app.crowdsec.net/cti) - https://app.crowdsec.net/cti
 - [FEODOTracker](https://feodotracker.abuse.ch/browse/) - https://feodotracker.abuse.ch/browse/
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - https://www.virustotal.com/gui/home/search  
 - [AbuseIPDB](https://www.abuseipdb.com/) - https://www.abuseipdb.com/  
