@@ -1,6 +1,9 @@
 ## Cybersecurity Handbooks
 - [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks
 
+## Security Tools
+- [CyberSecTools](https://cybersectools.com/categories) - https://cybersectools.com/categories
+
 ## Threat Intelligence
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - https://www.virustotal.com/gui/home/search  
 - [AbuseIPDB](https://www.abuseipdb.com/) - https://www.abuseipdb.com/  
@@ -18,6 +21,7 @@
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - https://exchange.xforce.ibmcloud.com/  
 - [IPVoid](https://www.ipvoid.com/) - https://www.ipvoid.com/  
 - [SOCRadar IOC Radar](https://socradar.io/labs/ioc-radar/) - https://socradar.io/labs/ioc-radar/
+- [ThreatStop](https://www.threatstop.com/check-ioc) - https://www.threatstop.com/check-ioc
 
 ## Threat Intelligence (URL Specific)
 - [urlscan.io](https://urlscan.io/) - https://urlscan.io/  
